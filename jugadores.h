@@ -1,7 +1,6 @@
 #ifndef JUGADORES_H_INCLUDED
 #define JUGADORES_H_INCLUDED
 #include "jugador.h"
-#include "torneo.h"
 
 
 typedef struct  nodoA	{
